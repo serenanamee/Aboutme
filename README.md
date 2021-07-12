@@ -25,12 +25,9 @@
 
 #### Git/GitHub
 
-* 能使用 Git 在 GitHub 上進行版本控制
-& GitHub Page
-
 
 ## Works
----
+* Makertec ROR developer
 
 ## Introduction
 ---
