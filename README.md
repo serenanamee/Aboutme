@@ -1,4 +1,4 @@
-# 張雯婷 （Serena Chang）
+#Serena Chang
 ---
 * Location : New Taipei City
 * Personal Website:
