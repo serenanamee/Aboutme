@@ -6,7 +6,10 @@
 
 ## Career
 ---
-* Taiwan Mandarin Institute teacher 201707-present  
+* MakerTech 202009-present
+-- ROR developer
+---
+* Taiwan Mandarin Institute teacher 201707-202004
 -- Design and develop Chinese language curriculum and instruction on culture.
 * 六角學院
 -- 線上 HTML, CSS/ Flex 助教
